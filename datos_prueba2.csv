@@ -1,0 +1,101 @@
+﻿ID;NIT;Nombre;UbicaciÃ³n;Servicio;Canal;Estado;Prioridad;SatisfacciÃ³n;ResoluciÃ³n
+1;NIT3746317213;Ciudadano 1;Cali;ActualizaciÃ³n datos RUT;Virtual;Cerrada;Urgente;Muy satisfecho;Cita agendada
+2;NIT9697354961;Ciudadano 2;Cali;OrientaciÃ³n tributaria;Virtual;Pendiente;Alta;Satisfecho;Resuelto satisfactoriamente
+3;NIT2181241943;Ciudadano 3;Bucaramanga;Agendamiento de cita RUT;Quiosco autogestiÃ³n;Pendiente;Urgente;Satisfecho;Requiere documentaciÃ³n adicional
+4;NIT1958682846;Ciudadano 4;MedellÃ­n;RecuperaciÃ³n contraseÃ±a;Presencial;Atendida;Media;Insatisfecho;InformaciÃ³n proporcionada
+5;NIT4163119785;Ciudadano 5;MedellÃ­n;Certificado origen;Quiosco autogestiÃ³n;Cerrada;Urgente;Muy satisfecho;Derivado a otra Ã¡rea
+6;NIT9963334018;Ciudadano 6;Cali;PresentaciÃ³n PQRS;TelÃ©fono;Cerrada;Media;Satisfecho;InformaciÃ³n proporcionada
+7;NIT2812140441;Ciudadano 7;Cali;OrientaciÃ³n tributaria;Virtual;En proceso;Alta;Muy satisfecho;Cita agendada
+8;NIT1127978094;Ciudadano 8;MedellÃ­n;Agendamiento de cita RUT;Presencial;Cerrada;Urgente;Muy insatisfecho;Cita agendada
+9;NIT1939042955;Ciudadano 9;MedellÃ­n;Agendamiento de cita RUT;Quiosco autogestiÃ³n;Cerrada;Urgente;Satisfecho;Resuelto satisfactoriamente
+10;NIT9703905715;Ciudadano 10;Bucaramanga;AsesorÃ­a aduanera;Presencial;Atendida;Urgente;Muy insatisfecho;Requiere documentaciÃ³n adicional
+11;NIT7635473142;Ciudadano 11;Cali;Consulta inconsistencias RUT;TelÃ©fono;Pendiente;Alta;Muy insatisfecho;Derivado a otra Ã¡rea
+12;NIT6241752544;Ciudadano 12;Bucaramanga;Certificado origen;Virtual;Cerrada;Alta;Muy insatisfecho;InformaciÃ³n proporcionada
+13;NIT7825844140;Ciudadano 13;Barranquilla;OrientaciÃ³n tributaria;Quiosco autogestiÃ³n;Cerrada;Media;Insatisfecho;Requiere documentaciÃ³n adicional
+14;NIT4460967357;Ciudadano 14;BogotÃ¡;Consulta inconsistencias RUT;Presencial;Atendida;Baja;Muy insatisfecho;Derivado a otra Ã¡rea
+15;NIT8293453178;Ciudadano 15;Bucaramanga;TrÃ¡mite exportaciÃ³n;Virtual;Cerrada;Alta;Insatisfecho;Cita agendada
+16;NIT6756332150;Ciudadano 16;Bucaramanga;ActualizaciÃ³n datos RUT;Virtual;Cerrada;Urgente;Muy satisfecho;Cita agendada
+17;NIT1667779376;Ciudadano 17;Bucaramanga;LiquidaciÃ³n sanciones;Presencial;Atendida;Media;Muy satisfecho;Resuelto satisfactoriamente
+18;NIT2445662585;Ciudadano 18;Bucaramanga;TrÃ¡mite exportaciÃ³n;Virtual;En proceso;Urgente;Satisfecho;Resuelto satisfactoriamente
+19;NIT5693307665;Ciudadano 19;Bucaramanga;PresentaciÃ³n PQRS;Virtual;En proceso;Urgente;Satisfecho;InformaciÃ³n proporcionada
+20;NIT5710360983;Ciudadano 20;BogotÃ¡;LiquidaciÃ³n sanciones;Quiosco autogestiÃ³n;Cerrada;Alta;Insatisfecho;Requiere documentaciÃ³n adicional
+21;NIT8934927891;Ciudadano 21;Cali;Agendamiento de cita RUT;Virtual;Cerrada;Baja;Muy satisfecho;Requiere documentaciÃ³n adicional
+22;NIT7887950851;Ciudadano 22;MedellÃ­n;RecuperaciÃ³n contraseÃ±a;Quiosco autogestiÃ³n;Pendiente;Urgente;Satisfecho;Derivado a otra Ã¡rea
+23;NIT4466589567;Ciudadano 23;Cali;RecuperaciÃ³n contraseÃ±a;Virtual;Cerrada;Alta;Satisfecho;InformaciÃ³n proporcionada
+24;NIT8429141456;Ciudadano 24;BogotÃ¡;TrÃ¡mite exportaciÃ³n;TelÃ©fono;Pendiente;Media;Satisfecho;Resuelto satisfactoriamente
+25;NIT3303082117;Ciudadano 25;Cali;Consulta inconsistencias RUT;TelÃ©fono;En proceso;Urgente;Muy satisfecho;InformaciÃ³n proporcionada
+26;NIT2625792787;Ciudadano 26;Bucaramanga;LiquidaciÃ³n sanciones;Quiosco autogestiÃ³n;Cerrada;Media;Satisfecho;Cita agendada
+27;NIT7665963761;Ciudadano 27;MedellÃ­n;Agendamiento de cita RUT;Quiosco autogestiÃ³n;Cerrada;Alta;Muy satisfecho;Resuelto satisfactoriamente
+28;NIT8995970241;Ciudadano 28;Cartagena;AsesorÃ­a aduanera;TelÃ©fono;Atendida;Alta;Muy insatisfecho;Requiere documentaciÃ³n adicional
+29;NIT3479708607;Ciudadano 29;Cali;Beneficios por mora;Virtual;Cerrada;Alta;Muy insatisfecho;Resuelto satisfactoriamente
+30;NIT4026113008;Ciudadano 30;Cali;LiquidaciÃ³n sanciones;Quiosco autogestiÃ³n;En proceso;Alta;Muy insatisfecho;Cita agendada
+31;NIT9786748825;Ciudadano 31;Bucaramanga;Consulta inconsistencias RUT;Presencial;Cerrada;Alta;Insatisfecho;Resuelto satisfactoriamente
+32;NIT5728765136;Ciudadano 32;Bucaramanga;PresentaciÃ³n PQRS;Virtual;Pendiente;Baja;Muy satisfecho;Requiere documentaciÃ³n adicional
+33;NIT6488854841;Ciudadano 33;Barranquilla;Consulta inconsistencias RUT;Virtual;Cerrada;Media;Satisfecho;Cita agendada
+34;NIT2566942273;Ciudadano 34;Cartagena;Agendamiento de cita RUT;TelÃ©fono;Pendiente;Baja;Insatisfecho;Derivado a otra Ã¡rea
+35;NIT6884882440;Ciudadano 35;BogotÃ¡;OrientaciÃ³n tributaria;Quiosco autogestiÃ³n;Atendida;Media;Insatisfecho;InformaciÃ³n proporcionada
+36;NIT3783290795;Ciudadano 36;MedellÃ­n;AsesorÃ­a aduanera;Virtual;Cerrada;Urgente;Muy insatisfecho;Derivado a otra Ã¡rea
+37;NIT4131575764;Ciudadano 37;Bucaramanga;Agendamiento de cita RUT;Quiosco autogestiÃ³n;Atendida;Urgente;Muy satisfecho;Cita agendada
+38;NIT5996775663;Ciudadano 38;Barranquilla;AsesorÃ­a aduanera;Quiosco autogestiÃ³n;Atendida;Media;Satisfecho;Cita agendada
+39;NIT6924716023;Ciudadano 39;Barranquilla;Solicitud devoluciÃ³n IVA;Quiosco autogestiÃ³n;Cerrada;Urgente;Insatisfecho;Cita agendada
+40;NIT3392080953;Ciudadano 40;Cartagena;Certificado origen;TelÃ©fono;Pendiente;Urgente;Satisfecho;Requiere documentaciÃ³n adicional
+41;NIT8235363119;Ciudadano 41;BogotÃ¡;Solicitud devoluciÃ³n IVA;Quiosco autogestiÃ³n;Cerrada;Urgente;Muy insatisfecho;Cita agendada
+42;NIT4332894265;Ciudadano 42;Barranquilla;Certificado origen;TelÃ©fono;Pendiente;Baja;Muy satisfecho;InformaciÃ³n proporcionada
+43;NIT6649827836;Ciudadano 43;Barranquilla;RecuperaciÃ³n contraseÃ±a;Presencial;Atendida;Baja;Satisfecho;Requiere documentaciÃ³n adicional
+44;NIT2149938334;Ciudadano 44;Bucaramanga;AsesorÃ­a aduanera;Virtual;En proceso;Alta;Satisfecho;Cita agendada
+45;NIT2351531223;Ciudadano 45;BogotÃ¡;LiquidaciÃ³n sanciones;Virtual;Cerrada;Media;Insatisfecho;Requiere documentaciÃ³n adicional
+46;NIT8110054933;Ciudadano 46;Bucaramanga;PresentaciÃ³n PQRS;Presencial;En proceso;Urgente;Satisfecho;InformaciÃ³n proporcionada
+47;NIT2970753705;Ciudadano 47;BogotÃ¡;Beneficios por mora;TelÃ©fono;Pendiente;Media;Muy satisfecho;InformaciÃ³n proporcionada
+48;NIT2137651678;Ciudadano 48;MedellÃ­n;TrÃ¡mite exportaciÃ³n;Virtual;Cerrada;Alta;Muy satisfecho;Requiere documentaciÃ³n adicional
+49;NIT7805745017;Ciudadano 49;Barranquilla;Consulta inconsistencias RUT;TelÃ©fono;En proceso;Alta;Satisfecho;Resuelto satisfactoriamente
+50;NIT7010379415;Ciudadano 50;Cartagena;Solicitud devoluciÃ³n IVA;TelÃ©fono;En proceso;Urgente;Insatisfecho;Derivado a otra Ã¡rea
+51;NIT5284391408;Ciudadano 51;MedellÃ­n;Consulta inconsistencias RUT;TelÃ©fono;Cerrada;Alta;Insatisfecho;Cita agendada
+52;NIT7483366056;Ciudadano 52;BogotÃ¡;Consulta inconsistencias RUT;Presencial;En proceso;Urgente;Muy insatisfecho;Derivado a otra Ã¡rea
+53;NIT1470939445;Ciudadano 53;Bucaramanga;PresentaciÃ³n PQRS;Presencial;Cerrada;Alta;Muy satisfecho;InformaciÃ³n proporcionada
+54;NIT3694860228;Ciudadano 54;MedellÃ­n;Agendamiento de cita RUT;TelÃ©fono;En proceso;Alta;Muy insatisfecho;Derivado a otra Ã¡rea
+55;NIT5567816720;Ciudadano 55;Barranquilla;Consulta inconsistencias RUT;Quiosco autogestiÃ³n;Atendida;Urgente;Insatisfecho;Resuelto satisfactoriamente
+56;NIT9573276057;Ciudadano 56;Barranquilla;TrÃ¡mite exportaciÃ³n;Presencial;Cerrada;Alta;Muy insatisfecho;Derivado a otra Ã¡rea
+57;NIT7567496105;Ciudadano 57;Cali;AsesorÃ­a aduanera;Quiosco autogestiÃ³n;Atendida;Alta;Insatisfecho;Derivado a otra Ã¡rea
+58;NIT9639245200;Ciudadano 58;Barranquilla;PresentaciÃ³n PQRS;Quiosco autogestiÃ³n;Atendida;Alta;Muy insatisfecho;InformaciÃ³n proporcionada
+59;NIT4095476665;Ciudadano 59;Barranquilla;Certificado origen;TelÃ©fono;En proceso;Media;Muy insatisfecho;InformaciÃ³n proporcionada
+60;NIT8047877267;Ciudadano 60;Bucaramanga;TrÃ¡mite exportaciÃ³n;Quiosco autogestiÃ³n;Pendiente;Baja;Muy satisfecho;Cita agendada
+61;NIT5774080233;Ciudadano 61;MedellÃ­n;Solicitud devoluciÃ³n IVA;Quiosco autogestiÃ³n;Atendida;Media;Muy satisfecho;Requiere documentaciÃ³n adicional
+62;NIT2867302554;Ciudadano 62;Cartagena;OrientaciÃ³n tributaria;Quiosco autogestiÃ³n;Atendida;Alta;Muy insatisfecho;Cita agendada
+63;NIT2948728483;Ciudadano 63;MedellÃ­n;Consulta inconsistencias RUT;TelÃ©fono;Atendida;Baja;Insatisfecho;InformaciÃ³n proporcionada
+64;NIT4919706735;Ciudadano 64;Cali;TrÃ¡mite exportaciÃ³n;TelÃ©fono;Pendiente;Media;Insatisfecho;Cita agendada
+65;NIT3615507143;Ciudadano 65;Cartagena;RecuperaciÃ³n contraseÃ±a;Presencial;Pendiente;Media;Muy satisfecho;Derivado a otra Ã¡rea
+66;NIT5951406973;Ciudadano 66;MedellÃ­n;PresentaciÃ³n PQRS;Presencial;Atendida;Media;Muy satisfecho;Derivado a otra Ã¡rea
+67;NIT4274958945;Ciudadano 67;MedellÃ­n;Agendamiento de cita RUT;Quiosco autogestiÃ³n;Pendiente;Urgente;Satisfecho;InformaciÃ³n proporcionada
+68;NIT9592390865;Ciudadano 68;Cartagena;ActualizaciÃ³n datos RUT;TelÃ©fono;Pendiente;Alta;Muy satisfecho;InformaciÃ³n proporcionada
+69;NIT6687206971;Ciudadano 69;BogotÃ¡;Solicitud devoluciÃ³n IVA;TelÃ©fono;Pendiente;Alta;Insatisfecho;Cita agendada
+70;NIT1083651970;Ciudadano 70;Cali;Solicitud devoluciÃ³n IVA;Quiosco autogestiÃ³n;Cerrada;Baja;Muy satisfecho;Cita agendada
+71;NIT9285415473;Ciudadano 71;Bucaramanga;ActualizaciÃ³n datos RUT;Presencial;Atendida;Media;Satisfecho;Derivado a otra Ã¡rea
+72;NIT2320763135;Ciudadano 72;Bucaramanga;AsesorÃ­a aduanera;TelÃ©fono;Pendiente;Alta;Muy insatisfecho;Requiere documentaciÃ³n adicional
+73;NIT1248786714;Ciudadano 73;BogotÃ¡;OrientaciÃ³n tributaria;Presencial;Cerrada;Media;Muy insatisfecho;Requiere documentaciÃ³n adicional
+74;NIT5067116918;Ciudadano 74;MedellÃ­n;Solicitud devoluciÃ³n IVA;Quiosco autogestiÃ³n;En proceso;Alta;Insatisfecho;InformaciÃ³n proporcionada
+75;NIT9957813353;Ciudadano 75;MedellÃ­n;Solicitud devoluciÃ³n IVA;TelÃ©fono;En proceso;Media;Satisfecho;Cita agendada
+76;NIT4289233844;Ciudadano 76;Bucaramanga;Agendamiento de cita RUT;Quiosco autogestiÃ³n;Pendiente;Alta;Muy insatisfecho;Requiere documentaciÃ³n adicional
+77;NIT3361388464;Ciudadano 77;Bucaramanga;Certificado origen;Virtual;Atendida;Baja;Muy insatisfecho;Cita agendada
+78;NIT6633778586;Ciudadano 78;Bucaramanga;Solicitud devoluciÃ³n IVA;Quiosco autogestiÃ³n;Pendiente;Media;Muy satisfecho;Resuelto satisfactoriamente
+79;NIT8086172302;Ciudadano 79;Cali;PresentaciÃ³n PQRS;Quiosco autogestiÃ³n;En proceso;Alta;Muy insatisfecho;Derivado a otra Ã¡rea
+80;NIT7517938612;Ciudadano 80;BogotÃ¡;AsesorÃ­a aduanera;Quiosco autogestiÃ³n;Atendida;Baja;Insatisfecho;Cita agendada
+81;NIT1519709079;Ciudadano 81;Bucaramanga;OrientaciÃ³n tributaria;TelÃ©fono;Atendida;Baja;Muy insatisfecho;Cita agendada
+82;NIT1965067727;Ciudadano 82;Cartagena;RecuperaciÃ³n contraseÃ±a;Quiosco autogestiÃ³n;En proceso;Alta;Insatisfecho;Cita agendada
+83;NIT2452066459;Ciudadano 83;Barranquilla;OrientaciÃ³n tributaria;Quiosco autogestiÃ³n;Cerrada;Media;Insatisfecho;Requiere documentaciÃ³n adicional
+84;NIT1945826486;Ciudadano 84;Bucaramanga;AsesorÃ­a aduanera;Virtual;Cerrada;Urgente;Muy satisfecho;Cita agendada
+85;NIT9894847574;Ciudadano 85;Barranquilla;Certificado origen;TelÃ©fono;Pendiente;Baja;Satisfecho;Resuelto satisfactoriamente
+86;NIT3710566582;Ciudadano 86;BogotÃ¡;LiquidaciÃ³n sanciones;Virtual;Atendida;Baja;Insatisfecho;Requiere documentaciÃ³n adicional
+87;NIT1983297492;Ciudadano 87;Cartagena;PresentaciÃ³n PQRS;Quiosco autogestiÃ³n;Pendiente;Alta;Muy insatisfecho;InformaciÃ³n proporcionada
+88;NIT4888749350;Ciudadano 88;MedellÃ­n;Certificado origen;TelÃ©fono;Atendida;Urgente;Muy insatisfecho;InformaciÃ³n proporcionada
+89;NIT8987073217;Ciudadano 89;Barranquilla;LiquidaciÃ³n sanciones;Virtual;En proceso;Urgente;Insatisfecho;Derivado a otra Ã¡rea
+90;NIT9894264595;Ciudadano 90;Bucaramanga;AsesorÃ­a aduanera;Quiosco autogestiÃ³n;Atendida;Urgente;Muy insatisfecho;Resuelto satisfactoriamente
+91;NIT6317189421;Ciudadano 91;BogotÃ¡;Agendamiento de cita RUT;Presencial;Atendida;Alta;Muy satisfecho;Cita agendada
+92;NIT8168204967;Ciudadano 92;BogotÃ¡;RecuperaciÃ³n contraseÃ±a;Virtual;En proceso;Media;Muy insatisfecho;Resuelto satisfactoriamente
+93;NIT3030106617;Ciudadano 93;BogotÃ¡;OrientaciÃ³n tributaria;TelÃ©fono;Cerrada;Baja;Muy satisfecho;InformaciÃ³n proporcionada
+94;NIT8664882079;Ciudadano 94;Barranquilla;Consulta inconsistencias RUT;Virtual;En proceso;Alta;Insatisfecho;Cita agendada
+95;NIT8763140509;Ciudadano 95;MedellÃ­n;Beneficios por mora;Virtual;Atendida;Urgente;Insatisfecho;Resuelto satisfactoriamente
+96;NIT1817804383;Ciudadano 96;Barranquilla;OrientaciÃ³n tributaria;Virtual;En proceso;Baja;Insatisfecho;Requiere documentaciÃ³n adicional
+97;NIT7146318035;Ciudadano 97;Cartagena;Agendamiento de cita RUT;Presencial;Atendida;Baja;Muy satisfecho;Cita agendada
+98;NIT7114223633;Ciudadano 98;MedellÃ­n;RecuperaciÃ³n contraseÃ±a;TelÃ©fono;Cerrada;Urgente;Muy insatisfecho;Requiere documentaciÃ³n adicional
+99;NIT4131356954;Ciudadano 99;Barranquilla;Beneficios por mora;TelÃ©fono;Cerrada;Urgente;Muy satisfecho;Resuelto satisfactoriamente
+100;NIT1422701550;Ciudadano 100;MedellÃ­n;PresentaciÃ³n PQRS;TelÃ©fono;Atendida;Baja;Muy insatisfecho;Cita agendada
